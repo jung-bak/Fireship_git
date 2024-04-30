@@ -1,2 +1,2 @@
 # Fireship Git Course
-- 2024-04-30
+- DATE: 2024-04-30
